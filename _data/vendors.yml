@@ -43,6 +43,16 @@
   pricing_source: https://www.box.com/pricing
   updated_at: 2018-10-17
 
+- name: Calendly
+  url: https://checklyhq.com/
+  base_pricing: $12 per u/m
+  sso_pricing: $25 per u/m[^calendly-price]
+  percent_increase: 208%
+  pricing_source: https://asana.com/pricing
+  pricing_note: Quote
+  footnotes: "[^calendly-price]: Based on Pro vs. Enterprise tier quote; Enterprise plan requires 30 user minimum."
+  updated_at: 2021-05-28
+
 - name: Checkly
   url: https://checklyhq.com/
   base_pricing: $29 per month
